@@ -1,0 +1,1 @@
+# ai-hacks-2022-1-khabarovsk-detect-walrus-api
